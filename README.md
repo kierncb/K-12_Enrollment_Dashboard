@@ -48,6 +48,6 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 - **Tableau** (Data Visualization)  
 
 ## Dashboard Preview  
-![*(You can add a screenshot of your Tableau dashboard here)*  ](enrollment_dashboard.png)
+![K-12 Enrollment Dashboard](<K-12 Enrollment Dashboard.png>)
 
-*Interactive Tableau dashboard showing Deped enrollment for school year 2023 - 2024.*
+*Interactive Tableau dashboard showing K-12 Enrollment.*
