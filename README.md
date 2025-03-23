@@ -7,8 +7,8 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 
 - **Cleaning and manipulating data** using Python to ensure accuracy and consistency
 - Developing an **interactive dashboard** to visualize key enrollment statistics
-- Implementing **hierarchical filtering** (Region, Province, Legislative District, Division, District, Municipality) for seamless data exploration.
-- Integrating **data visualizations** (charts, graphs, and maps) for better insights.
+- Implementing **hierarchical filtering** for seamless data exploration.
+- Integrating **data visualizations** for better insights.
 - Ensuring **user-friendly** navigation to enhance accessibility for stakeholders.
 
 ## My Contributions  
