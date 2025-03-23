@@ -1,4 +1,4 @@
-# DepEd Enrollment Data Dashboard  
+# K-12 Enrollment Dashboard  
 
 ### **Table of Contents:**
 - [Project Overview](#project-overview)
