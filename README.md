@@ -39,4 +39,4 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 ## Dashboard Preview  
 ![*(You can add a screenshot of your Tableau dashboard here)*  ](enrollment_dashboard.png)
 
-*You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+*You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
