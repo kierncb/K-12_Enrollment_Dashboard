@@ -5,8 +5,6 @@
 - [Data Structure](#data-structure)
 - [Work Highlights](#work-highlights)
 - [Technologies Used](#technologies-used)
-  - [Data Cleaning (Python)](#data-cleaning-python)  
-  - [Dashboard Development (Tableau)](#dashboard-development-tableau)
 - [Dashboard Preview](#dashboard-preview)
 
 ## Project Overview  
