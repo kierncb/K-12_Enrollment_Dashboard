@@ -2,6 +2,7 @@
 
 ### **Table of Contents:**
 - [Project Overview](#project-overview)
+- [Data Structure](#data-structure)
 - [Work Highlights](#work-highlights)
 - [Technologies Used](#technologies-used)
   - [Data Cleaning (Python)](#data-cleaning-python)  
@@ -18,6 +19,11 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 - Implementing **hierarchical filtering** for seamless data exploration.
 - Integrating **data visualizations** for better insights.
 - Ensuring **user-friendly** navigation to enhance accessibility for stakeholders.
+
+## Data Structure
+Enrollment database structure as seen below consists of 67 columns with a total row count of 60,172 records.
+
+![alt text](Enrollment_ERD.png)
 
 ## Work Highlights 
 
