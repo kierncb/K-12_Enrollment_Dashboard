@@ -53,6 +53,7 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 - **Tableau** (Data Visualization)  
 
 ## Dashboard Preview  
-![alt text](<Dashboard Image.png>)
+
+![alt text](Dashboard.png)
 
 *Interactive Tableau dashboard showing K-12 Enrollment.*
