@@ -12,11 +12,10 @@ With the recent change in administration, the Department of Education (DepEd) ai
 
 Currently, the system lacks a real-time dashboard, requiring manual data extraction for analysis. To enhance data-driven decision-making, this project focuses on:
 
-- **Cleaning and manipulating data** using Python to ensure accuracy and consistency. 
+- **Cleaning and manipulating data** using Pandas in Python
 - Developing an **interactive dashboard** to visualize key enrollment statistics.
 - Implementing **hierarchical filtering** for seamless data exploration.
 - Integrating **data visualizations** for better insights.
-- Ensuring **user-friendly** navigation to enhance accessibility for stakeholders.
 
 ## Data Structure
 Enrollment database structure as seen below consists of 67 columns with a total row count of 60,172 records.
@@ -42,8 +41,8 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 
 ### Dashboard Development (Tableau)  
 - Built an **interactive Tableau dashboard** to allow DepEd personnel to:  
-  - View enrollment data at a glance  
-  - Apply **filters** for education program and policy planning  
+  - Quickly explore and analyze enrollment trends
+  - Apply **filters** for education program and policy planning
 
 *You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
 
