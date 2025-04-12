@@ -42,16 +42,17 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 
 ### Dashboard Development (Tableau)  
 - Built an **interactive Tableau dashboard** to allow DepEd personnel to:  
-  - View topline enrollment data at a glance  
-  - Apply **filters and segmentations** for education program and policy planning  
+  - View enrollment data at a glance  
+  - Apply **filters** for education program and policy planning  
 
-*You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
+*You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
+
 ## Technologies Used  
 - **Python** (Data Cleaning & Preprocessing)  
 - **Pandas** (Data Manipulation)  
 - **Tableau** (Data Visualization)  
 
 ## Dashboard Preview  
-![K-12 Enrollment Dashboard](<K-12 Enrollment Dashboard.png>)
+![alt text](<Dashboard Image.png>)
 
 *Interactive Tableau dashboard showing K-12 Enrollment.*
