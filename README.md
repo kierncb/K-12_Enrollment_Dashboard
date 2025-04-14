@@ -44,8 +44,6 @@ Enrollment database structure as seen below consists of 67 columns with a total 
   - Quickly explore and analyze enrollment trends
   - Apply **filters** for education program and policy planning
 
-*You can view the Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
-
 ## Technologies Used  
 - **Python** (Data Cleaning & Preprocessing)  
 - **Pandas** (Data Manipulation)  
