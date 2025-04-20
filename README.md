@@ -49,8 +49,8 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 - **Pandas** (Data Manipulation)  
 - **Tableau** (Data Visualization)  
 
-## Dashboard Preview  
+## Plotly-Dash Dashboard Preview  
 
-![alt text](Dashboard.png)
+![alt text](Plotly-Dash_Dashboard.png)
 
-*Interactive Tableau dashboard showing K-12 Enrollment.*
+*Interactive Plotly-Dash dashboard showing K-12 Enrollment.*
