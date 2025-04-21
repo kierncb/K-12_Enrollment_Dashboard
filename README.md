@@ -14,8 +14,7 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 
 - **Cleaning and manipulating data** using Pandas in Python
 - Developing an **interactive dashboard** to visualize key enrollment statistics.
-- Implementing **hierarchical filtering** for seamless data exploration.
-- Integrating **data visualizations** for better insights.
+- Implementing **geographical area and school attributes filtering** for seamless data exploration.
 
 ## Data Structure
 Enrollment database structure as seen below consists of 67 columns with a total row count of 60,172 records.
@@ -24,7 +23,7 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 
 ## Work Highlights 
 
-### Data Cleaning (Python)  
+### Data Cleaning *(Python)*  
 - Removed unnecessary rows to maintain dataset relevance  
 - Replaced null values with **"Not Applicable"** instead of dropping rows  
 - Identified and removed **duplicate records** for data integrity  
@@ -37,20 +36,22 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 - Reshaped the dataset from **wide to long format** for better analysis  
 - Exported data with special character handling to prevent encoding issues
 
-*See data cleaning details [here](data_cleaning.ipynb).*
+*See data cleaning details [here](data_cleaning_tableau-dashboarding.ipynb).*
 
-### Dashboard Development (Tableau)  
+### Data Verification *(Excel)*
+- Used pivot tables and slicers on the original dataset to verify data computations in Plotly Dash and Tableau visualizations.
+
+
+
+### Dashboard Development *(Plotly-Dash and Tableau)*
 - Built an **interactive Tableau dashboard** to allow DepEd personnel to:  
   - Quickly explore and analyze enrollment trends
   - Apply **filters** for education program and policy planning
 
-## Technologies Used  
-- **Python** (Data Cleaning & Preprocessing)  
-- **Pandas** (Data Manipulation)  
-- **Tableau** (Data Visualization)  
-
-## Plotly-Dash Dashboard Preview  
+#### Plotly-Dash Dashboard Preview  
 
 ![alt text](Plotly-Dash_Dashboard.png)
 
-*Interactive Plotly-Dash dashboard showing K-12 Enrollment.*
+
+#### Tableau Dashboard Preview
+![alt text](Tableau_Dashboard.png)
