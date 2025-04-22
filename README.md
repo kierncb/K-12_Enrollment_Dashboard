@@ -19,6 +19,8 @@ Currently, the system lacks a real-time dashboard, requiring manual data extract
 ## Data Structure
 Enrollment database structure as seen below consists of 67 columns with a total row count of 60,172 records.
 
+⚠️ **Privacy Notice**: Due to data privacy policies, the enrollment dataset used is confidential and not available for public distribution.
+
 ![alt text](Enrollment_ERD.png)
 
 ## Work Highlights 
