@@ -41,7 +41,7 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 *See data cleaning details [here](data_cleaning_tableau-dashboarding.ipynb).*
 
 ### Data Verification *(Excel)*
-- Used pivot tables and slicers on the original dataset to verify data computations in Plotly Dash and Tableau visualizations.
+- Utilized pivot tables and slicers in Excel to cross-check data computations used in Plotly Dash and Tableau.
 
 ### Dashboard Development *(Plotly-Dash and Tableau)*
 - Built an **interactive dashboard** to allow DepEd personnel to:  
