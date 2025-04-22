@@ -41,10 +41,8 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 ### Data Verification *(Excel)*
 - Used pivot tables and slicers on the original dataset to verify data computations in Plotly Dash and Tableau visualizations.
 
-
-
 ### Dashboard Development *(Plotly-Dash and Tableau)*
-- Built an **interactive Tableau dashboard** to allow DepEd personnel to:  
+- Built an **interactive dashboard** to allow DepEd personnel to:  
   - Quickly explore and analyze enrollment trends
   - Apply **filters** for education program and policy planning
 
@@ -52,6 +50,9 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 
 ![alt text](Plotly-Dash_Dashboard.png)
 
+*See Plotly-Dash dashboard [here](Enrollment_Plotly-Dash_Script.py).*
 
 #### Tableau Dashboard Preview
 ![alt text](Tableau_Dashboard.png)
+
+*See Tableau dashboard [here](https://public.tableau.com/views/try_17425717667680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).*
