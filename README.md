@@ -50,7 +50,7 @@ Enrollment database structure as seen below consists of 67 columns with a total 
 
 ![alt text](Plotly-Dash_Dashboard.png)
 
-*See Plotly-Dash dashboard [here](Enrollment_Plotly-Dash_Script.py).*
+*See Plotly-Dash dashboard [here](Enrollment_Plotly-Dash_Script.py) or [here](https://colab.research.google.com/drive/1eInwSKU5U3cEhUWB2QCnxyKeMdwsA62G?usp=sharing).*
 
 #### Tableau Dashboard Preview
 ![alt text](Tableau_Dashboard.png)
